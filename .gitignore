@@ -1,6 +1,5 @@
-# Attendee files stay local.
-company-motion/*
-!company-motion/.gitkeep
+# Attendee files are committed to this private repo (owner decision, 2026-10-08).
+# Keys and filled config still stay outside the project; the rules below keep them out.
 *.env
 .env*
 !api-templates/credentials.env.example
